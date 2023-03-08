@@ -1,2 +1,2 @@
 # Star-Wars-Script-Analysis
-An analysis of the original Star Wars trilogy scripts
+An analysis of the original Star Wars trilogy scripts using Python
